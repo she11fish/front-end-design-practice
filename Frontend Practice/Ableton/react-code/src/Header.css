@@ -1,0 +1,52 @@
+
+
+.second_container {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin: 0px;
+    padding: 0.2rem 2.3rem 0.2rem 2.3rem;
+}
+
+h4 {
+    display: inline;
+    font-weight: 600;
+    font-style: 600;
+    font-size: 1rem;
+    font-family: 'futura-pt', "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 38px;
+}
+
+.margin-left-clear {
+    margin-left: 0px;
+}
+
+
+.third_container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fourth_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.header_logo {
+    position: absolute;
+    top: 53%;
+    left: 745px;
+}
+
+.header_img {
+    height: 854px;
+    width: 1336px;
+    margin-bottom: 133px;
+    padding-left: -0.5rem;
+    object-fit: cover;
+}
+

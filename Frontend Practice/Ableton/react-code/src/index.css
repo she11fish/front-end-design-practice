@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  width: 1600px;
+  height: 9596.5px;
+  padding-bottom: 371px;
+  background-color: #FFF;
+}
+html {
+  margin-left: 160px;
+  margin-right: 160px;
+  width: 1600px;
+  height: 9596.5px;
+  background-color: #F3F3F3;
+}
+
+::selection {
+  color: white;
+  background-color: blue;
+}
